@@ -376,7 +376,7 @@ td, th {
 }
 
 .page-top-banner {
-  background: url(../img/about-header.jpg);
+  background: url(../img/background.gif);
   background-size: cover;
 }
 .page-top-banner .overlay-bg {
@@ -1508,7 +1508,7 @@ td, th {
 }
 
 .banner-section3 {
-  background: url(../img/sherrybanner.JPG);
+  background: url(../img/dog1final.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
